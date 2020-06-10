@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ece196_into_to_iot</string>
+    <string name="app_title">Intro To IoT</string>
+    <string name="app_title2">IoT</string>
+    <string name="button_text">Click Me!!</string>
+    <string name="off_button_text">OFF</string>
+</resources>

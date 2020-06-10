@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312780977492",
+    "firebase_url": "https://ece196-spring2020.firebaseio.com",
+    "project_id": "ece196-spring2020",
+    "storage_bucket": "ece196-spring2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312780977492:android:5f4cb9389abbf0453d04c1",
+        "android_client_info": {
+          "package_name": "com.example.ece196_into_to_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312780977492-gc8mpaba6ed3r7gqppo4dlgmf18iefi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDR949ihb7c0WU68TUxKUBRHT7dQWFnh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312780977492-gc8mpaba6ed3r7gqppo4dlgmf18iefi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
